@@ -8,31 +8,59 @@
          integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
+    {{-- <link rel="stylesheet" href="css/style.css"> --}}
 </head>
 <body>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+        *{
+            font-family: "Lexend", sans-serif;
+        }
+
+        .kotak{
+            border-radius: 20px;
+        }
+
+        .btn-baru{
+            background-color: black;
+        }
+
+    </style>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
 
         <div class="container">
-            <a class="navbar-brand" href="#"><img src="" alt=""></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="homepage.html">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="product">Products</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Contact us</a>
-                    </li>
-                </ul>
-            </div>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <img src="assets/logo/logo.png " class="" style="max-height: 80px" alt="">
+         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mx-5">
+        <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#">Products</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#">Pricing</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#">Contact Us</a>
+        </li>
+
+
+        </ul>
+        <form class="form-inline my-2 my-lg-0  mx-5">
+            <input class="form-control mr-sm-2" style="width: " type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+    </nav>
 
         </div>
     </nav>
@@ -42,62 +70,60 @@
     <section>
         <div class="container my-5">
             <div class="row">
-                <div class="col-lg-6 text-center">
-                    <h1>Toko Laptop</h1>
+                <div class="col-lg-6 ">
+                    <h1>Merah Putih</h1>
                     <span>Toko Online Laptop Terbaik Di Indonesia</span>
+                    <div class="my-5" style="">
+                        <button type="button" class="btn btn-primary">EXPLORE</button>
+                    </div>
                 </div>
                 <div class="col-lg-6 text-center">
-                   <img src="banner/home.png" style="width: 100px ; height: 100px;" alt="">
+                   <img src="assets/banner/home.png" style="width: 100% ; height: 100%;" alt="">
                 </div>
             </div>
         </div>
     </section>
 
-    <div class="container my-5 mx-auto">
-        <h2>Produk</h2>
-        <div class="row">
-            <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
+    <div class="container my-5 mx-auto ">
+        <h2 class="my-5">Produk</h2>
+        <div class="row ">
+            <div class="col-lg-2 mx-4 ">
+                <div class="card kotak kotak" style="width: 13rem ;">
                     <img src="assets/laptops/image (1).png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <h4 class="text-center">macbook M2 </h4 class="text-center">
+                        <p class="card-text">Price : Rp 21,000,000</p>
+                        <button type="button" class="btn btn-primary">Detail</button>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
-                    <img src="..." class="card-img-top" alt="...">
+            <div class="col-lg-2 mx-4">
+                <div class="card kotak" style="width: 13rem;">
+                    <img src="assets/laptops/image (2).png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <h4 class="text-center">Macbook Air </h4 class="text-center">
+                        <p class="card-text">Price : Rp 15,000,000</p>
+                        <button type="button" class="btn btn-primary btn-baru">Detail</button>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
-                    <img src="..." class="card-img-top" alt="...">
+            <div class="col-lg-2 mx-4">
+                <div class="card kotak" style="width: 13rem;">
+                    <img src="assets/laptops/image (3).png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <h4 class="text-center">Macbook M1 </h4 class="text-center">
+                        <p class="card-text">Price : Rp 19,000,000</p>
+                        <button type="button" class="btn btn-primary">Detail</button>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
-                    <img src="..." class="card-img-top" alt="...">
+            <div class="col-lg-2 mx-4">
+                <div class="card kotak" style="width: 13rem;">
+                    <img src="assets/laptops/image (4).png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
-                    <img src="..." class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <h4 class="text-center">Macbook Air2 </h4 class="text-center">
+                        <p class="card-text">Price : Rp 15,500,000</p>
+                        <button type="button" class="btn btn-primary">Detail</button>
                     </div>
                 </div>
             </div>
@@ -106,40 +132,45 @@
 
     <section class="bg-primary">
        <div class="container my-5 py-5 ">
-        <h2>New Products</h2>
+        <h2 class="my-5">Products On SALE!</h2>
+
         <div class="row">
 
 
-            <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
-                    <img src="..." class="card-img-top" alt="...">
+            <div class="col-lg-2 mx-4 ">
+                <div class="card kotak kotak" style="width: 13rem ;">
+                    <img src="assets/products/macair15.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <h4 class="text-center">AirPod </h4 class="text-center">
+                        <p class="card-text">Price : </p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
-                    <img src="..." class="card-img-top" alt="...">
+            <div class="col-lg-2 mx-4 ">
+                <div class="card kotak kotak" style="width: 13rem ;">
+                    <img src="assets/products/echox.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <h4 class="text-center">Headshet </h4 class="text-center">
+                        <p class="card-text">Price : </p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
-                    <img src="..." class="card-img-top" alt="...">
+            <div class="col-lg-2 mx-4 ">
+                <div class="card kotak kotak" style="width: 13rem ;">
+                    <img src="assets/products/ps.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <h4 class="text-center">Play Station </h4 class="text-center">
+                        <p class="card-text">Price : </p>
                     </div>
                 </div>
+            </div>
+            <div class="col-lg-2 mx-4 ">
+                    <h3 class="><a href=""></a>Products Sale Until 1 May 99</h3>
             </div>
         </div>
-    </div>
+     </div>
     </section>
+
 
 
     <div class="container my-5 ">
@@ -156,24 +187,27 @@
                     </div>
                 </div>
             </div>
+
+        </div>
+    </div>
+
+    <div class="container my-5  ">
+        <h2 class="text-center">Top Brand</h2>
+        <div class="row">
             <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
-                    <img src="..." class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
-                    </div>
-                </div>
+                    <img src="assets/brands/apple.png" class="" alt="...">
             </div>
             <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
-                    <img src="..." class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
-                    </div>
-                </div>
+                    <img src="assets/brands/lenovo.png" class="" alt="...">
             </div>
+            <div class="col-lg-2">
+                    <img src="assets/brands/sony.png" class="" alt="...">
+            </div>
+            <div class="col-lg-2">
+                    <img src="assets/brands/samsung.png" class="" alt="...">
+            </div>
+
+
         </div>
     </div>
 
