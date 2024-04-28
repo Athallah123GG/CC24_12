@@ -80,7 +80,7 @@
                         <div class="card-body">
                             <h4 class="text-center">macbook M2 </h4 class="text-center">
                             <p class="card-text">Price : Rp 21,000,000</p>
-                            <button type="button" class="btn btn-primary">Detail</button>
+                            <button type="button" class="btn btn-primary"><a href="/">Detail</a></button>
                         </div>
                     </div>
                 </div>
@@ -464,7 +464,7 @@
             </div>
         </div>
 
-        
+
 
 
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"

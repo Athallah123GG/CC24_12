@@ -31,6 +31,7 @@
             color: white;
         }
 
+
     </style>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
@@ -70,7 +71,7 @@
         </ul>
         <form class="form-inline my-2 my-lg-0  mx-5">
             <input class="form-control mr-sm-2" style="width: " type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Search</button>
         </form>
     </div>
     </nav>
@@ -106,7 +107,7 @@
                     <div class="card-body">
                         <h4 class="text-center">macbook M2 </h4 class="text-center">
                         <p class="card-text">Price : Rp 21,000,000</p>
-                        <button type="button" class="btn btn-primary">Detail</button>
+                        <button type="button" class="btn btn-primary"><a href="" class="text-putih">Detail</a></button>
                     </div>
                 </div>
             </div>
@@ -226,7 +227,15 @@
 
         </div>
 
-    <div class="card mb-3" style="max-width: 540px;">
+
+  </div>
+</div>
+</div>
+
+    <section>
+
+        <div class="container">
+            <div class="card mb-3" style="max-width: 540px;">
     <div class="row no-gutters">
 
      <div class="col-md-4">
@@ -234,19 +243,16 @@
         </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Iphone 14</h5>
-        <p class="card-text">Smartphone serbaguna.</p>
-        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        <h5 class="card-title">Detail Produk</h5>
+        <p class="card-text">13,000,000</p>
+        {{-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> --}}
       </div>
     </div>
-  </div>
-</div>
+        </div>
 
+    </section>
 
-
-</div>
-
-    <section class=" ">
+<section class=" ">
         <div class="container my-5  ">
         <h2 class="text-center">Top Brand</h2>
         <div class="row my-5 mx-auto ">
