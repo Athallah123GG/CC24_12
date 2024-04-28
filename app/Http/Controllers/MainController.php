@@ -13,8 +13,14 @@ class MainController extends Controller
         return view ('index');
     }
 
-    public function product()
-    {
-        return view('product');
+    public function product(){
+        return view ('product');
+    }
+
+    public function detail(){
+        return view ('detail');
+    }
+    public function contactus(){
+        return view ('contactus');
     }
 }

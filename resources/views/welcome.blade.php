@@ -52,16 +52,16 @@
                 <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="product">Products</a>
+                <a class="nav-link" href="route {{'detail'}}">Products</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Contact Us</a>
+                <a class="nav-link" href="route {{'contactus'}}">Contact Us</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Keranjang</a>
+                <a class="nav-link" href="route {{'keranjang'}}">Keranjang</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Login</a>
+                <a class="nav-link" href="route {{'login'}}">Login</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Register</a>
@@ -95,9 +95,50 @@
         </div>
     </section>
 
+    <section class=" ">
+        <div class="container my-5  ">
+        <h2 class="text-center">Categories</h2>
+        <div class="row my-5 mx-auto ">
+
+            <div class="col-lg-2">
+                    <img src="assets/category/accessoris.png" class="" alt="...">
+                    <h5 class="text-center">Accesoris</h5>
+            </div>
+            <div class="col-lg-2">
+                    <img src="assets/category/camera.png" class="" alt="...">
+                    <h5 class="text-center">Camera</h5>
+            </div>
+            <div class="col-lg-2">
+                    <img src="assets/category/gaming.png" class="" alt="...">
+                    <h5 class="text-center">Gaming</h5>
+
+            </div>
+            <div class="col-lg-2">
+                    <img src="assets/category/hp.png" class="" alt="...">
+                    <h5 class="text-center">Handphone</h5>
+
+            </div>
+            <div class="col-lg-2">
+                    <img src="assets/category/laptop.png" class="" alt="...">
+                    <h5 class="text-center">laptop</h5>
+
+            </div>
+            <div class="col-lg-2">
+                    <img src="assets/category/smartwatch.png" class="" alt="...">
+                    <h5 class="text-center">Smartwatch</h5>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="my-5">
+    <div class="conainer my-5"></div>
+</section>
 
 
-    <div class="container my-5 mx-auto ">
+<div class="container my-5 mx-auto ">
 
         <h2 class="my-5">Products</h2>
         <div class="row ">
@@ -107,7 +148,7 @@
                     <div class="card-body">
                         <h4 class="text-center">macbook M2 </h4 class="text-center">
                         <p class="card-text">Price : Rp 21,000,000</p>
-                        <button type="button" class="btn btn-primary"><a href="" class="text-putih">Detail</a></button>
+                        <button type="button" class="btn btn-primary"><a href="route {{'detail'}}" class="text-putih">Detail</a></button>
                     </div>
                 </div>
             </div>
@@ -234,20 +275,22 @@
 
     <section>
 
-        <div class="container">
-            <div class="card mb-3" style="max-width: 540px;">
-    <div class="row no-gutters">
+        <div class="container shadow-lg p-3 mb-5 bg-white rounded">
+                <div class=" mb-3" style="max-width: 540px;">
+                    <div class="row no-gutters">
 
-     <div class="col-md-4">
-      <img src="assets/products/ip14.png" alt="...">
-        </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">Detail Produk</h5>
-        <p class="card-text">13,000,000</p>
-        {{-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> --}}
-      </div>
-    </div>
+                    <div class="col-md-4">
+                        <img src="assets/products/ip14.png" alt="...">
+                    </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Detail Produk Best Seller</h5>
+                        <p class="card-text">I Phone 14 Pro Max </p>
+                        <p class="card-text">RAM : 32GB</p>
+                        <p class="card-text">ROM : 512GB</p>
+                        <p class="card-text">13,000,000</p>
+                    </div>
+                </div>
         </div>
 
     </section>
@@ -272,10 +315,10 @@
 
         </div>
     </div>
-    </section>
+</section>
 
 
-    <footer class="bg-light py-5">
+<footer class="bg-light py-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
@@ -326,7 +369,7 @@
             </div>
         </div>
 
-    </footer>
+</footer>
 
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
