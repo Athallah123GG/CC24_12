@@ -44,7 +44,7 @@
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Products</a>
+            <a class="nav-link" href="product">Products</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Pricing</a>
