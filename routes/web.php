@@ -23,3 +23,4 @@ Route::get('/product', [MainController::class, 'product'])->name('product');
 Route::get('/detail', [MainController::class, 'detail'])->name('detail');
 Route::get('/contactus', [MainController::class, 'contactus'])->name('contactus');
 Route::get('/login', [MainController::class, 'login'])->name('login');
+Route::get('/register', [MainController::class, 'register'])->name('register');

@@ -21,6 +21,10 @@ class MainController extends Controller
         return view ('login');
     }
 
+    public function register(){
+        return view ('register');
+    }
+
     public function detail(){
         return view ('detail');
     }
