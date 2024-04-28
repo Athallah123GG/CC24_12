@@ -8,6 +8,8 @@
 
     @include('layout.navbar')
 
+    
+
 @endsection
 
 @section('page-js')
