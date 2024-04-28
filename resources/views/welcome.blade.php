@@ -27,6 +27,10 @@
             background-color: black;
         }
 
+        .text-putih{
+            color: white;
+        }
+
     </style>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
@@ -42,19 +46,25 @@
     </nav>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mx-5">
-        <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="product">Products</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="#">Contact Us</a>
-        </li>
+        <ul class="navbar-nav mx-">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="product">Products</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact Us</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Keranjang</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Login</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Register</a>
+            </li>
 
 
         </ul>
@@ -84,11 +94,14 @@
         </div>
     </section>
 
+
+
     <div class="container my-5 mx-auto ">
-        <h2 class="my-5">Produk</h2>
+
+        <h2 class="my-5">Products</h2>
         <div class="row ">
             <div class="col-lg-2 mx-4 ">
-                <div class="card kotak kotak" style="width: 13rem ;">
+                <div class="card kotak " style="width: 13rem ;">
                     <img src="assets/laptops/image (1).png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h4 class="text-center">macbook M2 </h4 class="text-center">
@@ -130,9 +143,9 @@
         </div>
     </div>
 
-    <section class="bg-primary">
+    <section class="bg-primary ">
        <div class="container my-5 py-5 ">
-        <h2 class="my-5">Products On SALE!</h2>
+        <h2 class="my-5 text-putih">Products On SALE!</h2>
 
         <div class="row">
 
@@ -141,8 +154,8 @@
                 <div class="card kotak kotak" style="width: 13rem ;">
                     <img src="assets/products/macair15.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h4 class="text-center">AirPod </h4 class="text-center">
-                        <p class="card-text">Price : </p>
+                        <h4 class="text-center">MacBook M8 </h4 class="text-center">
+                        <p class="card-text">Price : 15,750,000</p>
                     </div>
                 </div>
             </div>
@@ -151,7 +164,7 @@
                     <img src="assets/products/echox.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h4 class="text-center">Headshet </h4 class="text-center">
-                        <p class="card-text">Price : </p>
+                        <p class="card-text">Price : 22,000,000</p>
                     </div>
                 </div>
             </div>
@@ -160,12 +173,12 @@
                     <img src="assets/products/ps.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h4 class="text-center">Play Station </h4 class="text-center">
-                        <p class="card-text">Price : </p>
+                        <p class="card-text">Price : 18,699,000</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-2 mx-4 ">
-                    <h3 class="><a href=""></a>Products Sale Until 1 May 99</h3>
+                    <h3 class="text-putih"><a href=""></a>Products Sale Until 1 May 99</h3>
             </div>
         </div>
      </div>
@@ -212,7 +225,26 @@
             </div>
 
         </div>
+
+    <div class="card mb-3" style="max-width: 540px;">
+    <div class="row no-gutters">
+
+     <div class="col-md-4">
+      <img src="assets/products/ip14.png" alt="...">
+        </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Iphone 14</h5>
+        <p class="card-text">Smartphone serbaguna.</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
     </div>
+  </div>
+</div>
+
+
+
+</div>
 
     <section class=" ">
         <div class="container my-5  ">
@@ -238,58 +270,57 @@
 
 
     <footer class="bg-light py-5">
-         <div class="container">
-        <div class="row">
-            <div class="col-lg-3">
-                <h6>Company</h6>
-                <ul>
-                    <li>
-                        <a href="">About Us</a>
-                    </li>
-                    <li>
-                        <a href="">Blog</a>
-                    </li>
-                    <li>
-                        <a href="">Order Status</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-lg-3">
-                <h6>Info</h6>
-                <ul>
-                    <li>
-                        <a href="">How To Work</a>
-                    </li>
-                    <li>
-                        <a href="">Comitmen</a>
-                    </li>
-                    <li>
-                        <a href="">FAQ</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-lg-3">
-                <h6>Contact Us</h6>
-                <ul class="nav-item">
-                    <li class="link-active">
-                        <a href="">Jl.Siwalankerto No 12</a>
-                    </li>
-                    <li>
-                        <a href="">+62764873627</a>
-                    </li>
-                    <li>
-                        <a href="">Kcl@gmail.com</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-lg-3">
-                <h6>Sign Up</h6>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <h6>Company</h6>
+                    <ul>
+                        <li>
+                            <a href="">About Us</a>
+                        </li>
+                        <li>
+                            <a href="">Blog</a>
+                        </li>
+                        <li>
+                            <a href="">Order Status</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-3">
+                    <h6>Info</h6>
+                    <ul>
+                        <li>
+                            <a href="">How To Work</a>
+                        </li>
+                        <li>
+                            <a href="">Comitmen</a>
+                        </li>
+                        <li>
+                            <a href="">FAQ</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 " >
+                    <h6>Contact Us</h6>
+                    <ul class="nav-item">
+                        <li class="link-active">
+                            <a href="">Jl.Siwalankerto No 12</a>
+                        </li>
+                        <li>
+                            <a href="">+62764873627</a>
+                        </li>
+                        <li>
+                            <a href="">Kcl@gmail.com</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-3">
+                    <h6>Sign Up</h6>
+                </div>
             </div>
         </div>
-    </div>
+
     </footer>
-
-
 
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
