@@ -218,7 +218,7 @@
                     <div class="card kotak kotak" style="width: 13rem ;">
                         <img src="assets/laptops/image (13).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">macbook M5 </h4 class="text-center">
+                            <h4 class="text-center">Vivobook</h4 class="text-center">
                             <p class="card-text">Price : Rp 25,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -228,7 +228,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/laptops/image (14).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">ASUS M1</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -238,7 +238,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/laptops/image (15).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Macbook M1 </h4 class="text-center">
+                            <h4 class="text-center">LENOVO M1 </h4 class="text-center">
                             <p class="card-text">Price : Rp 19,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -248,7 +248,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/laptops/image (16).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Macbook AirX </h4 class="text-center">
+                            <h4 class="text-center">ASUS AirX </h4 class="text-center">
                             <p class="card-text">Price : Rp 21,500,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -264,7 +264,7 @@
                     <div class="card kotak kotak" style="width: 13rem ;">
                         <img src="assets/laptops/image (17).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">macbook M5 </h4 class="text-center">
+                            <h4 class="text-center">ASUS eM1 </h4 class="text-center">
                             <p class="card-text">Price : Rp 25,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -274,7 +274,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/laptops/image (18).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">Samsung KW</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -284,7 +284,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/laptops/image (19).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Macbook M1 </h4 class="text-center">
+                            <h4 class="text-center">Macbook S1</h4 class="text-center">
                             <p class="card-text">Price : Rp 19,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -294,7 +294,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/laptops/image (20).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Macbook AirX </h4 class="text-center">
+                            <h4 class="text-center">Macbook T3</h4 class="text-center">
                             <p class="card-text">Price : Rp 21,500,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -310,7 +310,7 @@
                     <div class="card kotak kotak" style="width: 13rem ;">
                         <img src="assets/laptops/image (21).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">macbook M5 </h4 class="text-center">
+                            <h4 class="text-center">Tas Laptop</h4 class="text-center">
                             <p class="card-text">Price : Rp 25,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -320,7 +320,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/laptops/image (22).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">Cas Belkin</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -330,7 +330,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/products/airpod.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">Airpod T5</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -340,7 +340,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/products/echox.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">HeadphoneS</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -355,7 +355,7 @@
                     <div class="card kotak kotak" style="width: 13rem ;">
                         <img src="assets/products/smartwatch.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">macbook M5 </h4 class="text-center">
+                            <h4 class="text-center">Smartwatch</h4 class="text-center">
                             <p class="card-text">Price : Rp 25,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -365,7 +365,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/products/keyboard.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">Keyboard K5</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -375,7 +375,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/products/mouse.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">Mouse GM</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -385,7 +385,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/products/macbook.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">Samsung GT</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -400,7 +400,7 @@
                     <div class="card kotak kotak" style="width: 13rem ;">
                         <img src="assets/products/macbook2.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">macbook M5 </h4 class="text-center">
+                            <h4 class="text-center">Lenovo V1</h4 class="text-center">
                             <p class="card-text">Price : Rp 25,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -410,7 +410,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/products/macair15.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">Macbook eM3</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -420,7 +420,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/products/ps.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">Playstation 2</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -430,7 +430,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/products/s23.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">Samsung S23</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -439,13 +439,13 @@
             </div>
         </div>
 
-         <div class="container my-5 mx-auto ">
+        <div class="container my-5 mx-auto ">
             <div class="row ">
                 <div class="col-lg-2 mx-4 ">
                     <div class="card kotak kotak" style="width: 13rem ;">
                         <img src="assets/products/ip14.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">macbook M5 </h4 class="text-center">
+                            <h4 class="text-center">Iphone 14</h4 class="text-center">
                             <p class="card-text">Price : Rp 25,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -455,7 +455,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/products/vr.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
+                            <h4 class="text-center">VR Gaming</h4 class="text-center">
                             <p class="card-text">Price : Rp 5,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
@@ -464,8 +464,61 @@
             </div>
         </div>
 
+    </div>
 
 
+        <footer class="bg-light py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3">
+                        <h6>Company</h6>
+                        <ul>
+                            <li>
+                                <a href="">About Us</a>
+                            </li>
+                            <li>
+                                <a href="">Blog</a>
+                            </li>
+                            <li>
+                                <a href="">Order Status</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3">
+                        <h6>Info</h6>
+                        <ul>
+                            <li>
+                                <a href="">How To Work</a>
+                            </li>
+                            <li>
+                                <a href="">Comitmen</a>
+                            </li>
+                            <li>
+                                <a href="">FAQ</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 ">
+                        <h6>Contact Us</h6>
+                        <ul class="nav-item">
+                            <li class="link-active">
+                                <a href="">Jl.Siwalankerto No 12</a>
+                            </li>
+                            <li>
+                                <a href="">+62764873627</a>
+                            </li>
+                            <li>
+                                <a href="">Kcl@gmail.com</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3">
+                        <h6>Sign Up</h6>
+                    </div>
+                </div>
+            </div>
+
+        </footer>
 
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
             integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
