@@ -191,25 +191,28 @@
         </div>
     </div>
 
-    <div class="container my-5  ">
+    <section class="bg-light ">
+        <div class="container my-5  ">
         <h2 class="text-center">Top Brand</h2>
-        <div class="row">
-            <div class="col-lg-2">
-                    <img src="assets/brands/apple.png" class="" alt="...">
-            </div>
-            <div class="col-lg-2">
+        <div class="row my-5 mx-auto ">
+
+            <div class="col-lg-3">
                     <img src="assets/brands/lenovo.png" class="" alt="...">
             </div>
-            <div class="col-lg-2">
-                    <img src="assets/brands/sony.png" class="" alt="...">
+            <div class="col-lg-3">
+                    <img src="assets/brands/canon.png" class="" alt="...">
             </div>
-            <div class="col-lg-2">
+            <div class="col-lg-3">
                     <img src="assets/brands/samsung.png" class="" alt="...">
             </div>
-
+            <div class="col-lg-3">
+                    <img src="assets/brands/sony.png" class="" alt="...">
+            </div>
 
         </div>
     </div>
+    </section>
+
 
     <footer>
          <div class="container">
