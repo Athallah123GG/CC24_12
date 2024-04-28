@@ -8,7 +8,7 @@
 
     @include('layout.navbar')
 
-    <h1>fsdjsdk</h1>
+    
 
     @include('layout.footer')
 
