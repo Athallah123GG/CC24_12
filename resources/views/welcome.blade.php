@@ -52,10 +52,10 @@
                 <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="route {{'detail'}}">Products</a>
+                <a class="nav-link" href="product">Products</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="route {{'contactus'}}">Contact Us</a>
+                <a class="nav-link" href="contactus">Detail</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="route {{'keranjang'}}">Keranjang</a>

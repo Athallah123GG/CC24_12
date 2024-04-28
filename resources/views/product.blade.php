@@ -30,43 +30,46 @@
         }
     </style>
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
+     <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
 
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <img src="assets/logo/logo.png " class="" style="max-height: 80px" alt="">
-                <button class="navbar-toggler" type="button" data-toggle="collapse"
-                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-                    aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav mx-5">
-                        <li class="nav-item">
-                            <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" href="product">Products</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Pricing</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Contact Us</a>
-                        </li>
+         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
 
 
-                    </ul>
-                    <form class="form-inline my-2 my-lg-0  mx-5">
-                        <input class="form-control mr-sm-2" style="width: " type="search" placeholder="Search"
-                            aria-label="Search">
-                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-                    </form>
-                </div>
-            </nav>
+    </nav>
 
-        </div>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mx-">
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="product">Products</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contactus">Detail</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="route {{'keranjang'}}">Keranjang</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="route {{'login'}}">Login</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Register</a>
+            </li>
+
+
+        </ul>
+        <form class="form-inline my-2 my-lg-0  mx-5">
+            <input class="form-control mr-sm-2" style="width: " type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
     </nav>
 
 
@@ -109,7 +112,7 @@
                         <img src="assets/laptops/image (4).png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4 class="text-center">Macbook Air2 </h4 class="text-center">
-                            <p class="card-text">Price : Rp 15,500,000</p>
+                            <p class="card-text">Price : Rp 14,500,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
                     </div>
@@ -126,7 +129,7 @@
                         <img src="assets/laptops/image (5).png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4 class="text-center">macbook M5 </h4 class="text-center">
-                            <p class="card-text">Price : Rp 25,000,000</p>
+                            <p class="card-text">Price : Rp 21,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
                     </div>
@@ -136,7 +139,7 @@
                         <img src="assets/laptops/image (6).png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4 class="text-center">Dell latitude</h4 class="text-center">
-                            <p class="card-text">Price : Rp 5,000,000</p>
+                            <p class="card-text">Price : Rp 9,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
                     </div>
@@ -156,7 +159,7 @@
                         <img src="assets/laptops/image (8).png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4 class="text-center">Macbook XR</h4 class="text-center">
-                            <p class="card-text">Price : Rp 20,500,000</p>
+                            <p class="card-text">Price : Rp 27,500,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
                     </div>
@@ -182,8 +185,8 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/laptops/image (10).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Dell latitude</h4 class="text-center">
-                            <p class="card-text">Price : Rp 5,000,000</p>
+                            <h4 class="text-center">Macbook T3</h4 class="text-center">
+                            <p class="card-text">Price : Rp 25,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
                     </div>
@@ -192,7 +195,7 @@
                     <div class="card kotak" style="width: 13rem;">
                         <img src="assets/laptops/image (11).png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4 class="text-center">Macbook M1 </h4 class="text-center">
+                            <h4 class="text-center">Macbook eM1 </h4 class="text-center">
                             <p class="card-text">Price : Rp 19,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
@@ -219,7 +222,7 @@
                         <img src="assets/laptops/image (13).png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4 class="text-center">Vivobook</h4 class="text-center">
-                            <p class="card-text">Price : Rp 25,000,000</p>
+                            <p class="card-text">Price : Rp 15,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
                     </div>
@@ -229,7 +232,7 @@
                         <img src="assets/laptops/image (14).png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4 class="text-center">ASUS M1</h4 class="text-center">
-                            <p class="card-text">Price : Rp 5,000,000</p>
+                            <p class="card-text">Price : Rp 12,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
                     </div>
@@ -239,7 +242,7 @@
                         <img src="assets/laptops/image (15).png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4 class="text-center">LENOVO M1 </h4 class="text-center">
-                            <p class="card-text">Price : Rp 19,000,000</p>
+                            <p class="card-text">Price : Rp 10,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
                     </div>
@@ -249,7 +252,7 @@
                         <img src="assets/laptops/image (16).png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4 class="text-center">ASUS AirX </h4 class="text-center">
-                            <p class="card-text">Price : Rp 21,500,000</p>
+                            <p class="card-text">Price : Rp 14,500,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
                     </div>
@@ -265,7 +268,7 @@
                         <img src="assets/laptops/image (17).png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4 class="text-center">ASUS eM1 </h4 class="text-center">
-                            <p class="card-text">Price : Rp 25,000,000</p>
+                            <p class="card-text">Price : Rp 11,000,000</p>
                             <button type="button" class="btn btn-primary">Detail</button>
                         </div>
                     </div>
@@ -275,7 +278,7 @@
                         <img src="assets/laptops/image (18).png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4 class="text-center">Samsung KW</h4 class="text-center">
-                            <p class="card-text">Price : Rp 5,000,000</p>
+                            <p class="card-text">Price : Rp 9,000,000</p>
                             <button type="button" class="btn btn-primary ">Detail</button>
                         </div>
                     </div>
