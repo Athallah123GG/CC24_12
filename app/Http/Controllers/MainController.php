@@ -17,6 +17,10 @@ class MainController extends Controller
         return view ('product');
     }
 
+    public function login(){
+        return view ('login');
+    }
+
     public function detail(){
         return view ('detail');
     }
