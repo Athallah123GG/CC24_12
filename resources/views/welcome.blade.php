@@ -38,6 +38,9 @@
         <span class="navbar-toggler-icon"></span>
     </button>
 
+
+    </nav>
+
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mx-5">
         <li class="nav-item active">
@@ -60,9 +63,6 @@
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
     </div>
-    </nav>
-
-        </div>
     </nav>
 
 
@@ -103,7 +103,7 @@
                     <div class="card-body">
                         <h4 class="text-center">Macbook Air </h4 class="text-center">
                         <p class="card-text">Price : Rp 15,000,000</p>
-                        <button type="button" class="btn btn-primary btn-baru">Detail</button>
+                        <button type="button" class="btn btn-primary ">Detail</button>
                     </div>
                 </div>
             </div>
@@ -175,15 +175,38 @@
 
     <div class="container my-5 ">
         <h2>Best Seller</h2>
-        <div class="row">
+        <div class="row my-4">
 
 
-            <div class="col-lg-2">
-                <div class="card" style="width: 13rem;">
-                    <img src="..." class="card-img-top" alt="...">
+            <div class="col-lg-3">
+                <div class="card kotak" style="width: 13rem;">
+                    <img src="assets/products/ps.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text text-center">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="card kotak" style="width: 13rem;">
+                    <img src="assets/products/ip14.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="card kotak" style="width: 13rem;">
+                    <img src="assets/products/s23.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="card kotak" style="width: 13rem;">
+                    <img src="assets/products/vr.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+
                     </div>
                 </div>
             </div>
@@ -191,7 +214,7 @@
         </div>
     </div>
 
-    <section class="bg-light ">
+    <section class=" ">
         <div class="container my-5  ">
         <h2 class="text-center">Top Brand</h2>
         <div class="row my-5 mx-auto ">
@@ -214,22 +237,50 @@
     </section>
 
 
-    <footer>
+    <footer class="bg-light py-5">
          <div class="container">
-        <div class="row >
+        <div class="row">
             <div class="col-lg-3">
                 <h6>Company</h6>
-                <ul class="nav-item">
-                    <li class="nav-item">
-                        <a href="nav-link">dsffds</a>
+                <ul>
+                    <li>
+                        <a href="">About Us</a>
+                    </li>
+                    <li>
+                        <a href="">Blog</a>
+                    </li>
+                    <li>
+                        <a href="">Order Status</a>
                     </li>
                 </ul>
             </div>
             <div class="col-lg-3">
                 <h6>Info</h6>
+                <ul>
+                    <li>
+                        <a href="">How To Work</a>
+                    </li>
+                    <li>
+                        <a href="">Comitmen</a>
+                    </li>
+                    <li>
+                        <a href="">FAQ</a>
+                    </li>
+                </ul>
             </div>
             <div class="col-lg-3">
                 <h6>Contact Us</h6>
+                <ul class="nav-item">
+                    <li class="link-active">
+                        <a href="">Jl.Siwalankerto No 12</a>
+                    </li>
+                    <li>
+                        <a href="">+62764873627</a>
+                    </li>
+                    <li>
+                        <a href="">Kcl@gmail.com</a>
+                    </li>
+                </ul>
             </div>
             <div class="col-lg-3">
                 <h6>Sign Up</h6>
