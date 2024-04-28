@@ -66,7 +66,7 @@
                         <a class="nav-link" href="login">Login</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Register</a>
+                        <a class="nav-link" href="register">Register</a>
                     </li>
 
 
@@ -79,7 +79,7 @@
             </div>
     </nav>
 
-    <section class="">
+    <section class="my-5">
         <form class="container w-25" >
         <div class="form-group">
             <label for="exampleInputEmail1">Email address</label>

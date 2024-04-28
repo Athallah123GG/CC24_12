@@ -62,10 +62,10 @@
                     <li class="nav-item">
                         <a class="nav-link" href="route {{ 'keranjang' }}">Keranjang</a>
                     </li>
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link" href="login">Login</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item active">
                         <a class="nav-link" href="register">Register</a>
                     </li>
 
@@ -79,11 +79,11 @@
             </div>
     </nav>
 
-    <section class="">
+    <section class="my-5">
         <form class="container w-25" >
             <div class="form-group">
             <label for="exampleInputEmail1">Username</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Example@gmail.com">
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="AthaGanteng123">
         </div>
         <div class="form-group">
             <label for="exampleInputEmail1">Email address</label>

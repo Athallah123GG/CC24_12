@@ -66,7 +66,7 @@
                         <a class="nav-link" href="login">Login</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Register</a>
+                        <a class="nav-link" href="register">Register</a>
                     </li>
 
 
@@ -105,16 +105,13 @@
          <div class="container my-5">
             <div class="row">
                 <div class="col-lg-6 text-center">
-                    <img src="assets/products/ip14.png" style="width: 100% ; height: 100%;" alt="">
+                    <img src="assets/products/vr.png" style="width: 100% ; height: 100%;" alt="">
                 </div>
 
                 <div class="col-lg-6 ">
-                    <h1>i Phone 14 Pro Max</h1>
-                    <span>Sebuah Smartphone Canggih yang Di Kembangkan Oleh Perusahaan Apple , Kini Di Banderoll Dengan
-                        Harga Yang Murah dan Terjangkau</span>
+                    <h1>VR Gaming</h1>
+                    <span>Alat yang dapat anda gunakan untuk bermain game atau menonton vidio secara realistis</span>
 
-                    <p class="card-text my-4">RAM : 32GB</p>
-                    <p class="card-text">ROM : 512GB</p>
                     <p class="card-text">Rp : 13,000,000</p>
                     <div class="my-5" style="">
                         <button type="button" class="btn btn-primary">Order!</button>
@@ -126,17 +123,14 @@
          <div class="container my-5">
             <div class="row">
                 <div class="col-lg-6 text-center">
-                    <img src="assets/products/ip14.png" style="width: 100% ; height: 100%;" alt="">
+                    <img src="assets/products/ps.png" style="width: 100% ; height: 100%;" alt="">
                 </div>
 
                 <div class="col-lg-6 ">
-                    <h1>i Phone 14 Pro Max</h1>
-                    <span>Sebuah Smartphone Canggih yang Di Kembangkan Oleh Perusahaan Apple , Kini Di Banderoll Dengan
-                        Harga Yang Murah dan Terjangkau</span>
+                    <h1>Playstation 2</h1>
+                    <span>Game console terseru pada jamannya, anda dapat memainkan game2 yang sangat nostlagia</span>
 
-                    <p class="card-text my-4">RAM : 32GB</p>
-                    <p class="card-text">ROM : 512GB</p>
-                    <p class="card-text">Rp : 13,000,000</p>
+                    <p class="card-text">Rp : 2,000,000</p>
                     <div class="my-5" style="">
                         <button type="button" class="btn btn-primary">Order!</button>
                     </div>
@@ -144,90 +138,6 @@
             </div>
         </div>
 
-         <div class="container my-5">
-            <div class="row">
-                <div class="col-lg-6 text-center">
-                    <img src="assets/products/ip14.png" style="width: 100% ; height: 100%;" alt="">
-                </div>
-
-                <div class="col-lg-6 ">
-                    <h1>i Phone 14 Pro Max</h1>
-                    <span>Sebuah Smartphone Canggih yang Di Kembangkan Oleh Perusahaan Apple , Kini Di Banderoll Dengan
-                        Harga Yang Murah dan Terjangkau</span>
-
-                    <p class="card-text my-4">RAM : 32GB</p>
-                    <p class="card-text">ROM : 512GB</p>
-                    <p class="card-text">Rp : 13,000,000</p>
-                    <div class="my-5" style="">
-                        <button type="button" class="btn btn-primary">Order!</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-         <div class="container my-5">
-            <div class="row">
-                <div class="col-lg-6 text-center">
-                    <img src="assets/products/ip14.png" style="width: 100% ; height: 100%;" alt="">
-                </div>
-
-                <div class="col-lg-6 ">
-                    <h1>i Phone 14 Pro Max</h1>
-                    <span>Sebuah Smartphone Canggih yang Di Kembangkan Oleh Perusahaan Apple , Kini Di Banderoll Dengan
-                        Harga Yang Murah dan Terjangkau</span>
-
-                    <p class="card-text my-4">RAM : 32GB</p>
-                    <p class="card-text">ROM : 512GB</p>
-                    <p class="card-text">Rp : 13,000,000</p>
-                    <div class="my-5" style="">
-                        <button type="button" class="btn btn-primary">Order!</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-         <div class="container my-5">
-            <div class="row">
-                <div class="col-lg-6 text-center">
-                    <img src="assets/products/ip14.png" style="width: 100% ; height: 100%;" alt="">
-                </div>
-
-                <div class="col-lg-6 ">
-                    <h1>i Phone 14 Pro Max</h1>
-                    <span>Sebuah Smartphone Canggih yang Di Kembangkan Oleh Perusahaan Apple , Kini Di Banderoll Dengan
-                        Harga Yang Murah dan Terjangkau</span>
-
-                    <p class="card-text my-4">RAM : 32GB</p>
-                    <p class="card-text">ROM : 512GB</p>
-                    <p class="card-text">Rp : 13,000,000</p>
-                    <div class="my-5" style="">
-                        <button type="button" class="btn btn-primary">Order!</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-         <div class="container my-5">
-            <div class="row">
-                <div class="col-lg-6 text-center">
-                    <img src="assets/products/ip14.png" style="width: 100% ; height: 100%;" alt="">
-                </div>
-
-                <div class="col-lg-6 ">
-                    <h1>i Phone 14 Pro Max</h1>
-                    <span>Sebuah Smartphone Canggih yang Di Kembangkan Oleh Perusahaan Apple , Kini Di Banderoll Dengan
-                        Harga Yang Murah dan Terjangkau</span>
-
-                    <p class="card-text my-4">RAM : 32GB</p>
-                    <p class="card-text">ROM : 512GB</p>
-                    <p class="card-text">Rp : 13,000,000</p>
-                    <div class="my-5" style="">
-                        <button type="button" class="btn btn-primary">Order!</button>
-                    </div>
-                </div>
-            </div>
-        </div>
 
     </section>
 
